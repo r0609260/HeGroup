@@ -37,8 +37,8 @@
 	zoom: 1; 
 	position: relative; 
 	width: 100%;
-	max-width:800px;
-	max-height:450px;
+	max-width:640px;
+	max-height:360px;
 	margin:12% auto auto auto;
 	z-index:100;
 	border:none;
@@ -52,7 +52,7 @@
 }
 
 
-* html #wowslider-container{ width:960px }
+* html #wowslider-container{ width:980px }
 #wowslider-container .ws_images ul{
 	position:relative;
 	width: 10000%; 
